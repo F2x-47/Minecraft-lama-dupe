@@ -1,17 +1,17 @@
 {
   "bot-account": {
-        "username": "WCdestartes", 
+        "username": "", 
         "password": "",
         "type": "offline"
           },
           "server": {
-            "ip": "2b2fr.org",
+            "ip": "",
             "port":"25565",
             "version": "1.14"
           },
         
           "admin": {
-            "playerign": "Pandak_x"
+            "playerign": ""
           },
           
           "kaura": {
@@ -35,7 +35,7 @@
 
             "auto-auth": {
               "enabled": true,
-              "password": "2b2fr"
+              "password": ""
             },
         
             "player-tracking": {
