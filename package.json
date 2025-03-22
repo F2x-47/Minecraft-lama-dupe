@@ -1,0 +1,30 @@
+{
+  "name": "minezon",
+  "version": "1.0.0",
+  "main": "minezon.js",
+  "bin": {
+    "minezon": "./minezon.js"
+  },
+  "pkg": {
+    "scripts": "minezon.js",
+    "assets": [
+      "assets/computer.ico"
+    ],
+    "win": {
+      "icon": "assets/computer.ico"
+    }
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-spinners": "^3.1.0",
+    "esm": "^3.2.25",
+    "figlet": "^1.7.0",
+    "log4js": "^6.9.1",
+    "minecraft-data": "3.67.0",
+    "minecraft-protocol": "1.47.0",
+    "mineflayer": "^4.20.1",
+    "mineflayer-collectblock": "^1.4.1",
+    "mineflayer-pathfinder": "^2.4.5",
+    "ora": "^8.0.1"
+  }
+}
